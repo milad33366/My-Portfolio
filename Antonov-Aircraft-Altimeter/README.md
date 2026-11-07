@@ -41,11 +41,11 @@
 
 ### نمای روی برد (Top View)
 
-![PCB Top View](board-top.jpg)
+![PCB Top View](board-top.png)
 
 ### نمای زیر برد (Bottom View)
 
-![PCB Bottom View](board-bottom.jpg)
+![PCB Bottom View](board-bottom.png)
 
 ## ابزارهای طراحی و توسعه
 
