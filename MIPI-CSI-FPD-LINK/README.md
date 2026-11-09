@@ -37,14 +37,21 @@
 
 ## تصاویر سه‌بعدی طراحی PCB
 
-### نمای بالا (Top View)
+### نمای بالا SERIALIZER (Top View)
 
-![PCB Top View](board-top.png)
+![PCB Top View](board-top1.png)
 
-### نمای پایین (Bottom View)
+### نمای پایین (Bottom View) SERIALIZER
 
-![PCB Bottom View](board-bottom.png)
+![PCB Bottom View](board-bottom1.png)
 
+### نمای بالا DESERIALIZER (Top View)
+
+![PCB Top View](board-top2.png)
+
+### نمای پایین DESERIALIZER (Bottom View)
+
+![PCB Bottom View](board-bottom2.png)
 ## ابزارهای طراحی و توسعه
 
 - Altium Designer
