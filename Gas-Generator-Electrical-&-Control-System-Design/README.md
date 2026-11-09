@@ -107,16 +107,16 @@
 
 ### Generator Control System
 
-![Gas Generator System Overview](system-overview.png)
+![Gas Generator System Overview](system-overview.jpg)
 
 ### ECU & Electronic Control Hardware
 
-![Engine ECU Hardware](ecu-hardware.png)
+![Engine ECU Hardware](ecu-hardware.jpg)
 
 ### Generator Electrical System
 
-![Generator Electrical System](generator-electrical-system.png)
+![Generator Electrical System](generator-electrical-system.jpg)
 
 ### Installation & Implementation
 
-![System Installation](system-installation.png)
+![System Installation](system-installation.jpg)
